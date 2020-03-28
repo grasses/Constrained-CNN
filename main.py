@@ -59,7 +59,7 @@ def main():
 
     model = Model(conf).to(conf.device)
     print(model)
-    training(conf, model, data.train_loader, helper)
+    training(conf, model, data.train_loader)
 
 if __name__ == "__main__":
     main()
