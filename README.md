@@ -2,7 +2,7 @@
 
 This repository is an Pytorch implement for paper "Constrained Convolutional Neural Networks: A New Approach Towards General Purpose Image Manipulation Detection".
 
-![Constrained-CNN](https://github.com/grasses/Constrained-CNN/master/static/Constrained-CNN.png)
+![Constrained-CNN](https://github.com/grasses/Constrained-CNN/blob/master/static/Constrained-CNN.png?raw=true)
 
 Note: this is not the offical implement for Constrained CNN, you can follow the paper here: [https://ieeexplore.ieee.org/document/8335799](https://ieeexplore.ieee.org/document/8335799)
 
